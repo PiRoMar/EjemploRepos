@@ -6,19 +6,10 @@ namespace Ejemplo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            int x;
+            int x2;
 
+            Console.WriteLine("Hello World!");
         }
     }
 }
